@@ -1,0 +1,8 @@
+<resources>
+    <string name="title">PlayList</string>
+    <string name="app_name">Volley_Reg/Login</string>
+    <string name="loginfail_toast">Login failed!</string>
+    <string name="registerfail_toast">Registration failed!</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Ip_address">http://104.196.62.142:8080/server_1/webapi/users</string>
+</resources>
